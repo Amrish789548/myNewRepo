@@ -1,0 +1,1 @@
+console.log("all thing are shown in console");
